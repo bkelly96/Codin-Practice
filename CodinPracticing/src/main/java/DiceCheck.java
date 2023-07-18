@@ -1,10 +1,12 @@
 import java.util.*;
 
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 class Solution {
+
+    private static final Logger logger = LogManager.getLogger(ReverseMode.class.getName());
 
     /*
     You are a DM and your players have a lot of dice rolls to perform.
@@ -26,15 +28,15 @@ class Solution {
             int roll = in.nextInt();
             int expected = in.nextInt();
             if(roll == 20){
-                System.out.println("Critical Success");
+                logger.info("Critical Success");
             } else if( roll == 1){
-                System.out.println("Critical Failure");
+                logger.info("Critical Failure");
             }
             else if(roll >= expected){
-                System.out.println("Success");
+                logger.info("Success");
             }
             else if (roll < expected){
-                System.out.println("Failure");
+                logger.info("Failure");
             }
         }
 
