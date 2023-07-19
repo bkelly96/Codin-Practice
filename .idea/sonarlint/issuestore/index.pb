@@ -1,0 +1,7 @@
+
+u
+E.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_20_0.xml,6\f\6fc73cfef4965d9b81f3bbdd28f14802a12d9cfd
+S
+#CodinPracticing/CodinPracticing.iml,3\f\3f48a5aebe3732a160e168360bf664c76184374a
+t
+D.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_20_0.xml,a\f\af5c1933e20f3c35e01ed8da61a32019d3d7a398
