@@ -9,8 +9,5 @@
         <module name="CodinPracticing" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CodinPracticing" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
