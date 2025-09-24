@@ -9,6 +9,10 @@ class ListNode {
     ListNode() {}
     ListNode(int val) { this.val = val; }
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+
+    public ListNode(int i, ListNode listNode, ListNode listNode1, ListNode listNode2, ListNode listNode3) {
+    }
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0); // dummy head (result will be dummy.next)
         ListNode cur = dummy;
