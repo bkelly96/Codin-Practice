@@ -1,10 +1,6 @@
 
-u
-E.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_20_0.xml,6\f\6fc73cfef4965d9b81f3bbdd28f14802a12d9cfd
 S
 #CodinPracticing/CodinPracticing.iml,3\f\3f48a5aebe3732a160e168360bf664c76184374a
-t
-D.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_20_0.xml,a\f\af5c1933e20f3c35e01ed8da61a32019d3d7a398
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 `
@@ -21,3 +17,7 @@ b
 .CodinPracticing/src/main/java/ReverseMode.java,9\1\9176fbec181837ff1ec8f843872c155b9d09dbde
 G
 CodinPracticing/pom.xml,2\3\23c43f680afc6039ad5158754306a63b534f7a5b
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+e
+5CodinPracticing/src/main/java/InterviewPractice1.java,3\9\392d8cda17afa24539a27e82c27045ed3639ab87
