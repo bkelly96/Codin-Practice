@@ -25,3 +25,9 @@ T
 $src/main/java/LinkedListExample.java,e\1\e1e2f38c6e068152bfc1223445034bf0bbbc5d76
 Q
 !src/main/java/hashMapIterate.java,1\2\128df03ef2a1f0d22199e3e435392b0cf215e962
+R
+"src/main/java/MoveZeroesArray.java,d\f\dfaac8b6363d9d388635a5da2e1a3a6d6bc54a3e
+]
+-src/main/java/HashMapConsecutiveIntegers.java,3\d\3d9f747482174afb63fa5b4123afa67cd156169e
+R
+"src/main/java/LastStringCount.java,8\4\84d7776eb08d7ab41ac477a2487384898bda49d5
